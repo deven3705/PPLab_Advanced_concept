@@ -1,4 +1,4 @@
-//using inheriantance
+// ******************************************************** Inheritance *****************************************************************
 
 #include <iostream>
 
@@ -55,7 +55,9 @@ int main() {
     return 0;
 }
 
-//using exception handling
+
+// ******************************************************** Exception Handling *****************************************************************
+
 #include <iostream>
 
 using namespace std;
@@ -114,7 +116,9 @@ int main() {
     return 0;
 }
 
-//using virtual function
+
+// ******************************************************** Virtual Function *****************************************************************
+
 
 #include <iostream>
 
@@ -170,7 +174,10 @@ int main() {
 
     return 0;
 }
-//using friend function
+
+
+// ******************************************************** Friend Function *****************************************************************
+
 #include <iostream>
 
 using namespace std;
