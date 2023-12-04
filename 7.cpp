@@ -1,4 +1,4 @@
-//inheritance
+// ************************************************************ Inheritance *************************************************************
 #include <iostream>
 
 using namespace std;
@@ -79,7 +79,8 @@ int main() {
     return 0;
 }
 
-//friend function
+
+// ************************************************************ Friend Function *************************************************************
 #include <iostream>
 
 using namespace std;
@@ -114,8 +115,7 @@ int main() {
 }
 
 
-//Virtual function
-C++
+// ************************************************************ Virtual Function *************************************************************
 #include <iostream>
 
 using namespace std;
