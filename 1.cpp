@@ -1,5 +1,4 @@
-//using inheriantnce
-
+// ******************************************************** Inheriantnce ****************************************************************
 #include <iostream>
 
 class Number {
@@ -38,7 +37,7 @@ int main() {
 }
 
 
-//using exception handling
+// ******************************************************** Exception Handling *****************************************************************
 #include <iostream>
 
 class Number {
@@ -105,7 +104,8 @@ int main() {
     return 0;
 }
 
-//using virtual function
+
+// ******************************************************** Virtual function *****************************************************************
 #include <iostream>
 
 class Number {
@@ -142,7 +142,9 @@ int main() {
 
     return 0;
 }
-//using  friend function 
+
+
+// ******************************************************** Friend Function *****************************************************************
 
 #include <iostream>
 
